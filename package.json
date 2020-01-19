@@ -1,0 +1,23 @@
+{
+  "name": "aoc-2019",
+  "version": "1.0.0",
+  "description": "Advent of Code 2019 - Hetty de Vries",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hetty82/AoC2019.git"
+  },
+  "author": "Hetty de Vries",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hetty82/AoC2019/issues"
+  },
+  "homepage": "https://github.com/Hetty82/AoC2019#readme",
+  "dependencies": {
+    "ts-node": "^8.5.4",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^3.7.4"
+  }
+}
